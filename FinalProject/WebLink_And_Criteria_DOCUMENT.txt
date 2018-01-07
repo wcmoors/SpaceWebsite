@@ -1,5 +1,4 @@
 William Moors
-12145324/wcmvh8
 
 CS2830 Final Project Document
 
@@ -14,10 +13,6 @@ NOTES:
   with the navbar instead of waiting to click on them.
 
 ******************************************************************************************************************
-
-Link to web application:
-
-	https://babbage.cs.missouri.edu/~wcmvh8/cs2830/FinalProject/home.php
 
 Project Criteria:
 
