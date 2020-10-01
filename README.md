@@ -5,7 +5,7 @@ CS2830 Final Project Document
 ******************************************************************************************************************
 NOTES: 
 
-- ONLY WORKS FULLY ON FIREFOX!
+- NO LONGER MAINTAINED
 
 - Line numbers in this document represent line numbers in Notepad++ text editor
 
